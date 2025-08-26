@@ -12,6 +12,9 @@ Este repositório contém toda a documentação, materiais visuais e planejament
 ### ☁️ OneDrive
 - [📁 Acesse a pasta do projeto no OneDrive](https://bandteccom-my.sharepoint.com/:f:/r/personal/felipe_vieira_sptech_school/Documents/stefatos?csf=1&web=1&e=XnRyRk)
 
+### 📄 Documento
+- [📁 Acesse a documentação do projeto no Google Docs]([https://bandteccom-my.sharepoint.com/:f:/r/personal/felipe_vieira_sptech_school/Documents/stefatos?csf=1&web=1&e=XnRyRk](https://docs.google.com/document/d/1uRdcmEOSYoLVPvPfH4o0QXN9DAs9IDGSh4fmXvn1QjA/edit?tab=t.0#heading=h.o3emx55b4eu0))
+
 ---
 
 ## 🎨 Protótipos Figma
