@@ -26,3 +26,6 @@ Este repositório contém toda a documentação, materiais visuais e planejament
 - [🔗 Ver Design no Figma](https://www.figma.com/design/DnOeWidFwvnUPYztj3FriR/Projeto-extens%C3%A3o-PI?t=OdytZUdk4etRqxUA-0)
 
 ---
+
+## 📄 Lean UX Canvas
+- [🔗 Ver Lean UX Canvas](https://www.canva.com/design/DAGyBFWsYqs/rMRZBC9NqEOZGHYDrKR83A/edit)
